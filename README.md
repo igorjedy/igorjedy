@@ -19,14 +19,21 @@ Olá, esse é meu portfólio de apresentação e nele pretendo apresentar meus e
 
 ## PROJETOS
 
+### POWER BI
+___
+
+#### Projeto 1 - 
+
 ### POWER AUTOMATE
 
+___
 #### Projeto 1 - Fluxo de retrabalho 
 
   <img src="https://github.com/igorjedy/igorjedy/assets/88805968/cf143943-799a-44b2-a633-52893879774e" width="720" height="360">
-
+  
 A imagem acima representa um projeto de construção de fluxo de retrabalho, seu funcionamento ocorre por meio de um gatilho (preenchimento de um Microsoft Forms) e a partir dele é submetido a execução com base nas opções selecionadas no mesmo.
 O fluxo em questão envia email e cola informações na tabela sempre que existe um retrabalho relacionado a atividade executada e também envia um email para empresa que realizou a atividade avisando que a mesma deverá ser refeita.
+
 
 ### Projeto 2 - Fluxo de orçamento
 
@@ -37,14 +44,15 @@ Conta também com níveis de aprovação do gerente e da analista para que caso 
 
 ### POWER APPS
 
+___
+
 <img src="https://github.com/igorjedy/igorjedy/assets/88805968/f0a46718-aa77-4b4b-9da8-a746a99815df" width="360" height="700">
 
 O projeto de prospecção de via foi um aplicativo montado em Power Apps que tem como principal função excluir o uso de papéis para atividades de análise de componentes da via permamente dentro da empresa.
 Dentres suas funcionalidades destaca-se o uso de georeferenciamento e usabilidade offline para trechos sem rede.
 
 Foi usado como meu Trabalho de Graduação na UNESP e pode ser encontrada por meio do link : <a href="https://github.com/igorjedy/igorjedy/files/14876012/TCC-.Aplicativo.Prospeccao.pdf" target="_blank"> Aplicativo da Prospecção </a>
-
-### POWER BI
+___
 
 ## MINHAS REDES SOCIAIS
 
