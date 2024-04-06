@@ -1,3 +1,7 @@
+<div style="text-align:center;">
+   <img src="https://github.com/igorjedy/igorjedy/assets/88805968/9809892c-c83c-47f0-89bc-1b6dc15baa8f" width="180" height="230">
+</div>
+
 # IGOR OLIVEIRA REIS
 
 Olá, esse é meu portfólio de apresentação e nele pretendo apresentar meus estudos recentes na área de Python e SQL e meus conhecimentos adquiridos nos últimos anos.
