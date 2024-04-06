@@ -77,7 +77,7 @@ Conta também com níveis de aprovação do gerente e da analista para que caso 
 
 ___
 
-<img src="https://github.com/igorjedy/igorjedy/assets/88805968/f0a46718-aa77-4b4b-9da8-a746a99815df" width="360" height="700">
+<img src="https://github.com/igorjedy/igorjedy/assets/88805968/43219d36-dbc3-48e6-837d-57a90dfaca29" width="360" height="700">
 
 O projeto de prospecção de via foi um aplicativo montado em Power Apps que tem como principal função excluir o uso de papéis para atividades de análise de componentes da via permamente dentro da empresa.
 Dentres suas funcionalidades destaca-se o uso de georeferenciamento e usabilidade offline para trechos sem rede.
