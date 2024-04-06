@@ -3,6 +3,11 @@
 Olá, esse é meu portfólio de apresentação e nele pretendo apresentar meus estudos recentes na área de Python e SQL e meus conhecimentos adquiridos nos últimos anos.
 Todos os projetos apresentados são projetos reais e que são autorais.
 
+## Cursos relevantes
+
+- Python Data Analytics - Plataforma DIO - 68 hs
+- Ciência de Dados - Ada Tech - 18 hs
+
 ## EXPERIÊNCIA ACADÊMICA
 
 - Coordenador Geral do curso FEGVEST [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fegvest/)
