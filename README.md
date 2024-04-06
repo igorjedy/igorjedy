@@ -1,10 +1,7 @@
-<div style="text-align:center;">
-   <img src="https://github.com/igorjedy/igorjedy/assets/88805968/9809892c-c83c-47f0-89bc-1b6dc15baa8f" width="180" height="230">
-</div>
-
 # IGOR OLIVEIRA REIS
 
 Olá, esse é meu portfólio de apresentação e nele pretendo apresentar meus estudos recentes na área de Python e SQL e meus conhecimentos adquiridos nos últimos anos.
+Todos os projetos apresentados são projetos reais e que são autorais.
 
 ## EXPERIÊNCIA ACADÊMICA
 
@@ -26,10 +23,35 @@ Olá, esse é meu portfólio de apresentação e nele pretendo apresentar meus e
 ### POWER BI
 ___
 
-#### Projeto 1 - 
+#### Projeto 1 - Nível de Serviço Operacional
+
+<img src="https://github.com/igorjedy/igorjedy/assets/88805968/d603cf22-acf3-405c-b840-decee3e5fd18" width="720" height="360">
+
+O BI em questão foi construído por meio de uma base em CSV e nele os dados foram transformados e utilizados de forma que fosse possível a visualização THP (trem hora parado) que é um dos KPI controlados pela gerência para analisar níveis de operação. Ainda dentro deste BI é possível filtrar e analisar quais pátios tinham maior tempo com o trem parado e suas respectivas justificativas (Controle padrão).
+
+#### Projeto 2 - Controle de Treinamentos
+
+<img src="https://github.com/igorjedy/igorjedy/assets/88805968/e23bb0d7-83ed-430e-9bf6-5fcceecde2e6" width="720" height="360">
+
+Neste outro projeto o BI construído tinha como objetivo denunciar e evidenciar os colaboradores com treinamentos vencidos e por meio disso poderíamos atuar para soluções.
+Filtragem por deartamento, coordenações, funcionários específicos e treinamentos com maior quantidade para ser realizado. Simples, mas bem objetivo e usual no dia a dia.
+
+#### Projeto 3 - BI de Equipamentos
+
+<img src="https://github.com/igorjedy/igorjedy/assets/88805968/4b7f5a7e-6381-4cc9-95de-549e62c5f28b" width="720" height="560">
+
+BI bem completo e com uma construção um pouco mais complexa, isso porque sua alimentação de dados foi feita por meio da coleta de dados de uma lista do SharePoint (conexão de Power Plataform), nesse caso os dados eram coletados via aplicativo em Power Apps e disponibilizado por meio de uma lista que foi carregada e transformada em PowerQuery para que os dados fossem usados com uma visualização mais limpa.
+Desta forma meu gerente tinha total conhecimento da movimentação das ferramentas da nossa gerência e a movimentação de um aparelho chamado Trolley.
+
+#### Projeto 4 - Retrabalho
+
+<img src="https://github.com/igorjedy/igorjedy/assets/88805968/f4f29a16-a6e6-421b-a5af-7f6795b945e9" width="720" height="360">
+
+No próximo tópico será apresentado um fluxo chamado retrabalho e é ele que gera a base de dados usado no BI apresentado acima, as informações de trabalhos efetuados pela tercerizada são configurados como sendo retrabalho (necessário realizar um trabalho para correção daquele que foi feito) e os serviços que estão dentro do padrão definido pela empresa.
+A partir das informações coletadas pelo fluxo os dados são enviados a uma planilha que alimenta o BI acima e nele é possível vermos quais coordenações mais tiveram retrabalho e quais os técnicos mais responsáveis por atividades caracterizadas por esse rótulo.
+Desta forma limitamos o erro muito abaixo e podemoa agir de forma mais conclusiva seja a empresa terceirizada que está prestando o serviço, seja ao técnico que está responsável pela verificação deste serviço.
 
 ### POWER AUTOMATE
-
 ___
 #### Projeto 1 - Fluxo de retrabalho 
 
@@ -56,7 +78,6 @@ O projeto de prospecção de via foi um aplicativo montado em Power Apps que tem
 Dentres suas funcionalidades destaca-se o uso de georeferenciamento e usabilidade offline para trechos sem rede.
 
 Foi usado como meu Trabalho de Graduação na UNESP e pode ser encontrada por meio do link : <a href="https://github.com/igorjedy/igorjedy/files/14876012/TCC-.Aplicativo.Prospeccao.pdf" target="_blank"> Aplicativo da Prospecção </a>
-___
 
 ## MINHAS REDES SOCIAIS
 
