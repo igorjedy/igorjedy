@@ -101,14 +101,6 @@ Foi usado como meu Trabalho de Graduação na UNESP e pode ser encontrada por me
 | ![PL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=oracle&logoColor=white&labelColor=black&color=black)|Intermediário|
 |![Java](https://img.shields.io/badge/java-black.svg?style=for-the-badge&logo=openjdk&logoColor=white)|Básico|
 
-## ESTUDOS
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igorjedy&theme=graywhite)
-
-## CONTRIBUIÇÕES
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=igorjedy&theme=graywhite&mode=weekly)](https://git.io/streak-stats)
-
 ## PLAYLISTS QUE USO PARA PROGRAMAR
 
 |Top|Nome da Playlist|Link|
